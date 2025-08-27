@@ -1,0 +1,68 @@
+[
+  {
+    "title": "1984",
+    "short": "O distopie despre control, supraveghere și manipulare socială.",
+    "themes": ["distopie", "libertate", "control social", "adevăr"],
+    "full": "Romanul lui George Orwell descrie o societate distopică aflată sub controlul total al statului. Oamenii sunt supravegheați de „Big Brother”, gândirea liberă este crimă, iar Winston Smith încearcă să reziste sistemului opresiv."
+  },
+  {
+    "title": "The Hobbit",
+    "short": "Aventură fantastică despre curaj și prietenie.",
+    "themes": ["aventură", "prieteni", "fantezie", "descoperire de sine"],
+    "full": "Bilbo Baggins pornește într-o misiune alături de pitici pentru a recupera comoara păzită de Smaug. Pe drum, descoperă curajul și resurse interioare nebănuite."
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "short": "Magie, prietenie și curaj într-o lume vrăjitorească.",
+    "themes": ["magie", "prieteni", "coming-of-age", "bine vs rău"],
+    "full": "Harry află că este vrăjitor, merge la Hogwarts, își face prieteni și se confruntă cu primele urme ale lui Voldemort."
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "short": "O călătorie epică împotriva răului absolut.",
+    "themes": ["prietenie", "sacrificiu", "fantezie epică"],
+    "full": "O Frăție se formează pentru a distruge Inelul Unic. Curajul, loialitatea și speranța sunt testate la fiecare pas."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "short": "Satiră socială despre prejudecăți și iubire.",
+    "themes": ["iubire", "clasă socială", "familie"],
+    "full": "Elizabeth Bennet și Mr. Darcy navighează printre prejudecăți, diferențe sociale și auto-descoperire."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "short": "Justiție, empatie și rasism în Sudul american.",
+    "themes": ["justiție", "empatie", "maturizare"],
+    "full": "Atticus Finch apără un bărbat nevinovat, iar Scout învață despre moralitate și curaj."
+  },
+  {
+    "title": "Fahrenheit 451",
+    "short": "Societate în care cărțile sunt interzise.",
+    "themes": ["cenzură", "libertate", "conștiință"],
+    "full": "Montag, pompier care arde cărți, își pune la îndoială rolul și sistemul care interzice gândirea."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "short": "Căutarea sensului la vârsta adolescenței.",
+    "themes": ["alienare", "maturizare"],
+    "full": "Holden Caulfield explorează New York-ul, confruntându-se cu confuzia și singurătatea."
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "short": "Fantezie pentru toate vârstele despre curaj și credință.",
+    "themes": ["fantezie", "speranță", "sacrificiu"],
+    "full": "Patru frați descoperă Narnia, îl întâlnesc pe Aslan și luptă împotriva Vrăjitoarei Albe."
+  },
+  {
+    "title": "The Book Thief",
+    "short": "Poveste emoționantă în Germania nazistă.",
+    "themes": ["război", "compasiune", "puterea cuvintelor"],
+    "full": "Liesel găsește alinare în cărți în timp ce realitatea războiului îi schimbă viața."
+  },
+  {
+    "title": "The Alchemist",
+    "short": "Călătorie spirituală despre destin și scop.",
+    "themes": ["căutarea sensului", "destin"],
+    "full": "Santiago călătorește din Andaluzia spre Egipt, urmându-și „Legenda Personală”."
+  }
+]
